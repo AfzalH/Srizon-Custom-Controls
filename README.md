@@ -16,4 +16,7 @@ try the files from sample-output folder and put relevant code into your theme fi
 
 ## Collection of Custom Controls with Demo Usage
 
-- Google Font Control (List of google fonts selectable with an Advanced DropDown)
+#### Google Font Control (List of google fonts selectable with an Advanced DropDown)
+Screenshot
+
+![Google Font Control](https://farm6.staticflickr.com/5693/23210136652_c23e40d824_z.jpg)
