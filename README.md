@@ -20,3 +20,8 @@ try the files from sample-output folder and put relevant code into your theme fi
 Screenshot
 
 ![Google Font Control](https://farm6.staticflickr.com/5693/23210136652_c23e40d824_z.jpg)
+
+#### Slider Control (A slider for selecting from a range of values)
+Screenshot
+
+![Slider Control](https://farm1.staticflickr.com/720/23027366870_9313c22862_z.jpg)
